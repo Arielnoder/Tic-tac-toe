@@ -1,0 +1,16 @@
+/home/ariel/tic/bin/Debug/net5.0/tic
+/home/ariel/tic/bin/Debug/net5.0/tic.deps.json
+/home/ariel/tic/bin/Debug/net5.0/tic.runtimeconfig.json
+/home/ariel/tic/bin/Debug/net5.0/tic.runtimeconfig.dev.json
+/home/ariel/tic/bin/Debug/net5.0/tic.dll
+/home/ariel/tic/bin/Debug/net5.0/ref/tic.dll
+/home/ariel/tic/bin/Debug/net5.0/tic.pdb
+/home/ariel/tic/obj/Debug/net5.0/tic.csprojAssemblyReference.cache
+/home/ariel/tic/obj/Debug/net5.0/tic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ariel/tic/obj/Debug/net5.0/tic.AssemblyInfoInputs.cache
+/home/ariel/tic/obj/Debug/net5.0/tic.AssemblyInfo.cs
+/home/ariel/tic/obj/Debug/net5.0/tic.csproj.CoreCompileInputs.cache
+/home/ariel/tic/obj/Debug/net5.0/tic.dll
+/home/ariel/tic/obj/Debug/net5.0/ref/tic.dll
+/home/ariel/tic/obj/Debug/net5.0/tic.pdb
+/home/ariel/tic/obj/Debug/net5.0/tic.genruntimeconfig.cache
